@@ -1,3 +1,5 @@
+<p align="right"> <a href="https://exercism.io/" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/exercism.svg" alt="css3" width="100" height="100"/>
+  
 # Exercism Solutions
 My solutions to the Exercism: JavaScript Track challenges
 
