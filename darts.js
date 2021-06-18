@@ -1,3 +1,6 @@
+// in its current iteration, this solution is one that passes all of the tests
+// this solution has not been approved by an exercism mentor 
+
 // pseudocode:
 
 // input: 
@@ -45,7 +48,7 @@ export const score = (x, y) => {
   // to be difficult to read.
   // I think you can get around that with 
   // the spacing that I've used here but
-  // just in case, go to line 51 for 
+  // just in case, go to line 54 for 
   // a more readable return statement
 
   // if (distance > 10) {
