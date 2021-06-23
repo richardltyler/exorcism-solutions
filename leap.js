@@ -1,3 +1,5 @@
+// this solution ahs not been approved by an exorcism mentor
+
 export const isLeap = year => {
   return (
     year % 4 === 0 
